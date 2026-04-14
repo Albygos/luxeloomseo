@@ -1,15 +1,15 @@
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!--  This is the parent sitemap linking to additional sitemaps for products, collections and pages as shown below. The sitemap can not be edited manually, but is kept up to date in real time.  -->
-<sitemap>
-<loc>https://luxeloom.co/sitemap_products_1.xml?from=9615541928216&to=9690112917784</loc>
-</sitemap>
-<sitemap>
-<loc>https://luxeloom.co/sitemap_pages_1.xml?from=134615531800&to=148838514968</loc>
-</sitemap>
-<sitemap>
-<loc>https://luxeloom.co/sitemap_collections_1.xml?from=473619366168&to=514635497752</loc>
-</sitemap>
-<sitemap>
-<loc>https://luxeloom.co/sitemap_blogs_1.xml</loc>
-</sitemap>
-</sitemapindex>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://example.com</loc>
+      <lastmod>2024-05-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>https://example.comabout</loc>
+      <lastmod>2024-05-10</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset>
